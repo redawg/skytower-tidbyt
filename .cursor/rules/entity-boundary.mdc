@@ -1,0 +1,11 @@
+---
+description: SkyTower Tidbyt display — personal scope only
+alwaysApply: true
+---
+
+# SkyTower — Entity Boundary
+
+- **Scope:** `skytower.star`, Pixlet, OpenSky, Tidbyt push, Podman container in this repo.
+- **Not here:** Wave/QB, OrderPort, Found.com, vineyard ops, corp classifier.
+- **Fleet host changes:** `@redhat-agent`.
+- **Travel expense Gmail scanning:** `@flight-tracker` / `@personal-agent`.

@@ -23,6 +23,7 @@ RUN microdnf install -y \
         ca-certificates \
         curl \
         gzip \
+        python3 \
         tar \
     && microdnf clean all \
     && rm -rf /var/cache/yum

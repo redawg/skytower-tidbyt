@@ -1,0 +1,18 @@
+# SkyTower — deployment tier
+# Ladder: a-schoenfeld-corp-workspace/docs/DEPLOYMENT-MODES.md
+
+entity: Personal / household
+workspace: skytower-workspace
+agent: skytower-agent
+repo: https://github.com/redawg/skytower-tidbyt
+
+deployment_tier: rapid_prototype
+deployment_tier_label: Rapid prototype
+
+promote_phrases:
+  dev_pipeline: move to dev pipeline
+  production: move to production
+
+notes: |
+  Default: build/run Podman locally or on infra3 with .env (Tidbyt + OpenSky secrets).
+  Quay image + fleet cron → Andrew says "move to dev pipeline" → @redhat-agent.
