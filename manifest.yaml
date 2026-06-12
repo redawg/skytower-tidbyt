@@ -1,0 +1,8 @@
+---
+id: skytower
+name: SkyTower
+summary: Live flight dashboard
+desc: Displays nearby aircraft from OpenSky Network ADS-B data. Auto-rotates tower, radar, and route views.
+author: andre
+file: skytower.star
+packageName: skytower

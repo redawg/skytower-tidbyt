@@ -1,0 +1,21 @@
+.env
+*.webp
+pixlet.exe
+*.tgz
+*.tar.gz
+
+# Local dev / debug artifacts
+*.py
+*.bak
+apptest/
+deploy-log.txt
+check.txt
+loadapp.txt
+push-help.txt
+render-help.txt
+release.json
+icons.txt
+hex.txt
+disp-hex.txt
+manifest.yaml.bak
+skytower.star.bak
