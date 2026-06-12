@@ -6,6 +6,7 @@ pixlet.exe
 
 # Local dev / debug artifacts
 *.py
+!scripts/*.py
 *.bak
 apptest/
 deploy-log.txt
