@@ -1,0 +1,20 @@
+# Dev tooling and local artifacts
+*.py
+*.bak
+apptest/
+lib/
+.git/
+.env
+*.webp
+pixlet.exe
+deploy-log.txt
+check.txt
+loadapp.txt
+push-help.txt
+render-help.txt
+release.json
+icons.txt
+hex.txt
+disp-hex.txt
+manifest.yaml.bak
+skytower.star.bak
